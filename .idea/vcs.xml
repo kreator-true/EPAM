@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/design-patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/file-tree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/int-string-capped-map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ranged-ops-integer-set" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/special-collections" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/streams-count-words" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/streams-pipelines" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/task-07" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/task-08" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-factorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-quadratic-equation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-sorting" vcs="Git" />
+  </component>
+</project>

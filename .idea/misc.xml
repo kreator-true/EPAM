@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/task-07/pom.xml" />
+        <option value="$PROJECT_DIR$/task-08/pom.xml" />
+        <option value="$PROJECT_DIR$/file-tree/pom.xml" />
+        <option value="$PROJECT_DIR$/test-sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/test-factorial/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/streams-pipelines/pom.xml" />
+        <option value="$PROJECT_DIR$/special-collections/pom.xml" />
+        <option value="$PROJECT_DIR$/streams-count-words/pom.xml" />
+        <option value="$PROJECT_DIR$/int-string-capped-map/pom.xml" />
+        <option value="$PROJECT_DIR$/ranged-ops-integer-set/pom.xml" />
+        <option value="$PROJECT_DIR$/test-quadratic-equation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
